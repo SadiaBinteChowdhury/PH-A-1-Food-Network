@@ -51,15 +51,27 @@ h2{
 .recipe-plan{
     width: 30%;
     padding: 1%;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 4%;
+    margin-right: 4%;
     box-shadow: 10px 10px 20px darkgrey;
     border-radius: 20px;
 }
 .recipe-plan img{
-    width: 320px;
+    width: 350px;
     border-radius: 20px;
 }
 .flexible-food{
     display: flex;
+}
+.table{
+    width: 1330px;
+    padding: 2%;
+    margin: 4%;
+    height: 200px;
+    box-shadow: 10px 10px 20px slategray;
+    border-radius: 20px;
+    display: flex;
+}
+.ab{
+    padding-right: 460px;
 }
