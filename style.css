@@ -18,7 +18,7 @@ h1{
 .take-half img{
     width: 100%;
 }
-p{
+.description{
     font-size: 25px;
     text-align: justify;
 }
@@ -41,4 +41,7 @@ p{
     background-repeat: no-repeat;
     width: 100%;
     background-size: 1540px;
+}
+h2{
+    font-size: 40px;
 }
