@@ -21,3 +21,11 @@ h1{
 p{
     font-size: 25px;
 }
+.linked-button{
+    text-decoration: none;
+    background-image: linear-gradient(skyblue, navy);
+    padding: 10px 40px;
+    border-radius: 40px;
+    color: white;
+    font-weight: 500;
+}
