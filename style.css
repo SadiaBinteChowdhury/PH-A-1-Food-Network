@@ -73,5 +73,13 @@ h2{
     display: flex;
 }
 .ab{
-    padding-right: 460px;
+    padding-right: 60px;
+    margin-right: 33%;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    height: 150px;
+    color: cornsilk;
+    padding: 5%;
 }
