@@ -29,3 +29,9 @@ p{
     color: white;
     font-weight: 500;
 }
+.first-banner{
+    background-image: url(shapes/Frame571.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: 1540px;
+}
