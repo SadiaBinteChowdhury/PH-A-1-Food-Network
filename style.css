@@ -45,3 +45,21 @@ h1{
 h2{
     font-size: 40px;
 }
+.recipe{
+    text-align: center;
+}
+.recipe-plan{
+    width: 30%;
+    padding: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 20px darkgrey;
+    border-radius: 20px;
+}
+.recipe-plan img{
+    width: 320px;
+    border-radius: 20px;
+}
+.flexible-food{
+    display: flex;
+}
